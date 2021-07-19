@@ -1,0 +1,17 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1920
+PlayResY: 1080
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,sans-serif,71,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:36.29,0:01:38.42,Default,,0,0,0,,This looks like\Nthe place, alright.
+Dialogue: 0,0:01:38.51,0:01:40.20,Default,,0,0,0,,Hey, what's that\Nkid's name again?
+Dialogue: 0,0:01:40.29,0:01:41.77,Default,,0,0,0,,Andy Slocum.
