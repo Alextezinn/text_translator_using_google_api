@@ -8,6 +8,7 @@ from text_translator_using_google_api.enums.type_content import TypeContent
 from text_translator_using_google_api.models.translate_content import TranslateContent
 from text_translator_using_google_api.utils.configuration_logger import config
 
+
 class TestTranslateContentApi(unittest.TestCase):
 
     logger.configure(**config)
